@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Namaste! 🙏!
+### I'm Deepesh, your friendly neighbourhood photographer and coder! 📸
+- 👀 I’m interested in cameras and cars!
+- 📸 Check out my instagram page [Instagram](https://www.instagram.com/framesbypatty/)
+- 📫 How to reach me: [Mail](mailto:text.deepesh@gmail.com)
 <!--
 **codesbypatty/codesbypatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
