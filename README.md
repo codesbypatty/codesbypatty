@@ -1,4 +1,4 @@
-## Namaste! 🙏!
+## Namaste! 🙏
 ### I'm Deepesh, your friendly neighbourhood photographer and coder! 📸
 - 👀 I’m interested in cameras and cars!
 - 📸 Check out my instagram page [Instagram](https://www.instagram.com/framesbypatty/)
